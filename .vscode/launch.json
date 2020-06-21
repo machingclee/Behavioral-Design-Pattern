@@ -1,0 +1,35 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Main",
+      "request": "launch",
+      "mainClass": "StrategyPattern.Main",
+      "projectName": "DesignPatternExercise_79e4a527"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Main",
+      "request": "launch",
+      "mainClass": "IteratorPattern.Main",
+      "projectName": "DesignPatternExercise_79e4a527"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Main<IteratorPattern_a066163f>",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "IteratorPattern_a066163f"
+    }
+  ]
+}
